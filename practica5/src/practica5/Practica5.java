@@ -20,7 +20,6 @@ public class Practica5 {
         System.out.println("adios");
         System.out.println("uno");
         System.out.println("dos");
-     
         System.out.println("cuatro");
         System.out.println("adios");
         System.out.println("cinco");
