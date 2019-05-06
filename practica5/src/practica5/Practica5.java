@@ -23,6 +23,7 @@ public class Practica5 {
      
         System.out.println("cuatro");
         System.out.println("adios");
+        System.out.println("cinco");
         
         
     }
