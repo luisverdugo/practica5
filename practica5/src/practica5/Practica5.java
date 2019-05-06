@@ -22,8 +22,7 @@ public class Practica5 {
         System.out.println("dos");
      
         System.out.println("cuatro");
-        
-        
+        System.out.println("adios");
         
         
     }
